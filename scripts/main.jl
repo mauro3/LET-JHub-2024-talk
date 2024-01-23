@@ -110,6 +110,7 @@ md"""
 - Julia
 - Jupyter
 - Slide show: [Rise](https://github.com/damianavila/RISE) plugin for Jupyter
+  - there is new version of Rise which works on JupyterHub https://github.com/jupyterlab-contrib/rise
 - [Literate.jl](https://github.com/fredrikekre/Literate.jl)
 
 Output of Literate.jl: pure Julia, markdown, Jupyter notebooks
